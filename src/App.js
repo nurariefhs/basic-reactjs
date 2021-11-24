@@ -8,7 +8,7 @@ function App() {
         <div>
             <Router>
                 <Navigation />
-                <div style={{ background: 'yellow' }}>
+                <div style={{ background: '#ffffd1' }}>
                     <h4>Content Here: </h4>
                     <RoutesApp />
                 </div>

@@ -8,6 +8,10 @@ function Navigation() {
                     <li>Home</li>
                 </Link>
 
+                <Link to="/table">
+                    <li>Table</li>
+                </Link>
+
                 <Link to={{
                     pathname: '/about',
                     state: { from: 'root' }

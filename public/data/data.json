@@ -1,0 +1,186 @@
+{
+    "data": [
+        [
+            "<div data-id=\"1\">Nur Arief 1<\/div>",
+            "Ayah",
+            [
+                "Nasi Goreng",
+                "Bakso",
+                "Nasi Padang"
+            ],
+            [
+                "Maen Game"
+            ],
+            34
+        ],
+        [
+            "<div data-id=\"2\">Dyah Wulan 1<\/div>",
+            "Bunda",
+            [
+                "Roti Coklat",
+                "Mie Ayam",
+                "Pecel Lele",
+                "Es Teh"
+            ],
+            [
+                "Ngambek",
+                "Bebersih"
+            ],
+            27
+        ],
+        [
+            "<div data-id=\"3\">Moka 1<\/div>",
+            "Anak Sholehah",
+            [
+                "Nenen",
+                "Pecel Lele",
+                "Telur Ceplok"
+            ],
+            [
+                "Nenen",
+                "Nangis",
+                "Tidur",
+                "Senyum",
+                "Ngelawak"
+            ],
+            "<button class=\"btn btn-primary\">1<\/button>"
+        ],
+        [
+            "<div data-id=\"1\">Nur Arief 2<\/div>",
+            "Ayah",
+            [
+                "Nasi Goreng",
+                "Bakso",
+                "Nasi Padang"
+            ],
+            [
+                "Maen Game"
+            ],
+            34
+        ],
+        [
+            "<div data-id=\"2\">Dyah Wulan 2<\/div>",
+            "Bunda",
+            [
+                "Roti Coklat",
+                "Mie Ayam",
+                "Pecel Lele",
+                "Es Teh"
+            ],
+            [
+                "Ngambek",
+                "Bebersih"
+            ],
+            27
+        ],
+        [
+            "<div data-id=\"3\">Moka 2<\/div>",
+            "Anak Sholehah",
+            [
+                "Nenen",
+                "Pecel Lele",
+                "Telur Ceplok"
+            ],
+            [
+                "Nenen",
+                "Nangis",
+                "Tidur",
+                "Senyum",
+                "Ngelawak"
+            ],
+            "<button class=\"btn btn-primary\">2<\/button>"
+        ],
+        [
+            "<div data-id=\"1\">Nur Arief 3<\/div>",
+            "Ayah",
+            [
+                "Nasi Goreng",
+                "Bakso",
+                "Nasi Padang"
+            ],
+            [
+                "Maen Game"
+            ],
+            34
+        ],
+        [
+            "<div data-id=\"2\">Dyah Wulan 3<\/div>",
+            "Bunda",
+            [
+                "Roti Coklat",
+                "Mie Ayam",
+                "Pecel Lele",
+                "Es Teh"
+            ],
+            [
+                "Ngambek",
+                "Bebersih"
+            ],
+            27
+        ],
+        [
+            "<div data-id=\"3\">Moka 3<\/div>",
+            "Anak Sholehah",
+            [
+                "Nenen",
+                "Pecel Lele",
+                "Telur Ceplok"
+            ],
+            [
+                "Nenen",
+                "Nangis",
+                "Tidur",
+                "Senyum",
+                "Ngelawak"
+            ],
+            "<button class=\"btn btn-primary\">3<\/button>"
+        ],
+        [
+            "<div data-id=\"1\">Nur Arief 4<\/div>",
+            "Ayah",
+            [
+                "Nasi Goreng",
+                "Bakso",
+                "Nasi Padang"
+            ],
+            [
+                "Maen Game"
+            ],
+            34
+        ],
+        [
+            "<div data-id=\"2\">Dyah Wulan 4<\/div>",
+            "Bunda",
+            [
+                "Roti Coklat",
+                "Mie Ayam",
+                "Pecel Lele",
+                "Es Teh"
+            ],
+            [
+                "Ngambek",
+                "Bebersih"
+            ],
+            27
+        ],
+        [
+            "<div data-id=\"3\">Moka 4<\/div>",
+            "Anak Sholehah",
+            [
+                "Nenen",
+                "Pecel Lele",
+                "Telur Ceplok"
+            ],
+            [
+                "Nenen",
+                "Nangis",
+                "Tidur",
+                "Senyum",
+                "Ngelawak"
+            ],
+            "<button class=\"btn btn-primary\">4<\/button>"
+        ]
+    ],
+    "recordsFiltered": 12,
+    "recordsTotal": 12
+}
